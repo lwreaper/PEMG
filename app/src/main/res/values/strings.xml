@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PEMG</string>
+    <string name="default_button">Call</string>
+    <string name="update_phone_number_text">Update Phone Number</string>
+</resources>
