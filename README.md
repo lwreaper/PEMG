@@ -1,4 +1,4 @@
-# PEMG (Phonemergency v2)
+# PEMG (was Phonemergency)
 > In times of emergencies, we need to contact someone, either our beloved ones or emergency services. This app allows you to contact them secretly.
 
 # What does this app do?
